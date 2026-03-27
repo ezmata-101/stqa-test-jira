@@ -29,7 +29,7 @@ Use whatever tools work for you — Postman, REST-assured, custom scripts, anyth
 There's a clear line between what's allowed and what isn't:
 
 * You can talk to other teams about general approaches — tool setup, how to structure a test plan, how JWT works.
-* Do share test cases, test data, or specific test ideas with anyone outside your team — not verbally, not in writing, not in any form.
+* Do NOT share test cases, test data, or specific test ideas with anyone outside your team — not verbally, not in writing, not in any form.
 * Do not use AI tools, the internet, or peers to generate your test cases or defect ideas. Your work must come from your own hands-on analysis of the system.
 * Do not copy or paraphrase anything from external sources. Rewriting someone else's test case in your own words is still plagiarism.
 * If your team is caught sharing or receiving specific testing content, everyone involved will be penalized — regardless of who started it.
