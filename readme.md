@@ -1,10 +1,11 @@
 # Assignment Announcement — System Testing (Jira-Lite API)
 
 ## Deadline
-* **To be announced**
+* **April 10, 2026 (Friday) - 11:59 pm**
 
 ## Presentation
-* **To be announced**
+* **Section B, C: April 11, 2026 (Saturday)**
+* **Section A, D: April 12, 2026 (Sunday)**
     * Each team will do a short in-class presentation of the key defects they found.
 
 ## What you'll do
@@ -22,19 +23,21 @@ Use whatever tools work for you — Postman, REST-assured, custom scripts, anyth
 
 > Quality over quantity. A handful of well-documented, reproducible defects is worth far more than a long list of shallow ones.
 
-## Collaboration & Plagiarism Policy
+> [!CAUTION]
+> ## Collaboration & Plagiarism Policy
+> 
+> **This section is strictly enforced. Please read it.**
+> 
+> There's a clear line between what's allowed and what isn't:
+> 
+> * You can talk to other teams about general approaches — tool setup, how to structure a test plan, how JWT works.
+> * **Do NOT share** test cases, test data, or specific test ideas with anyone outside your team — not verbally, not in writing, not in any form.
+> * **Do not use AI tools**, the internet, or peers to generate your test cases or defect ideas. Your work must come from your own hands-on analysis of the system.
+> * **Do not copy or paraphrase** anything from external sources. Rewriting someone else's test case in your own words is still plagiarism.
+> * If your team is caught sharing or receiving specific testing content, **everyone involved will be penalized** — regardless of who started it.
+> 
+> If you're unsure whether something is okay, it probably isn't. **Don't share. Don't copy.**
 
-**This section is strictly enforced. Please read it.**
-
-There's a clear line between what's allowed and what isn't:
-
-* You can talk to other teams about general approaches — tool setup, how to structure a test plan, how JWT works.
-* Do NOT share test cases, test data, or specific test ideas with anyone outside your team — not verbally, not in writing, not in any form.
-* Do not use AI tools, the internet, or peers to generate your test cases or defect ideas. Your work must come from your own hands-on analysis of the system.
-* Do not copy or paraphrase anything from external sources. Rewriting someone else's test case in your own words is still plagiarism.
-* If your team is caught sharing or receiving specific testing content, everyone involved will be penalized — regardless of who started it.
-
-If you're unsure whether something is okay — it probably isn't. **Don't share. Don't copy.**
 
 ## Deliverables
 
