@@ -4,6 +4,7 @@
 ---
 
 > This tutorial markdown is created by AI from the subtitle of the tutorial: https://www.youtube.com/watch?v=42yofv00Obg
+> Google Drive (If you face any audio issues): https://drive.google.com/file/d/1kIsId9_YFL16xBlI2F3mdmd6Z2vhPSGX/view?usp=sharing 
 
 ## Introduction
 

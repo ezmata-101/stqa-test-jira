@@ -1,11 +1,11 @@
 # Assignment Announcement — System Testing (Jira-Lite API)
 
 ## Deadline
-* **April 10, 2026 (Friday) - 11:59 pm**
+* **April 12, 2026 (Sunday) - 11:59 pm**
 
 ## Presentation
-* **Section B, C: April 11, 2026 (Saturday)**
-* **Section A, D: April 12, 2026 (Sunday)**
+* **Section B, C: April 13, 2026 (Monday)**
+* **Section A, D: April 15, 2026 (Wednesday)**
     * Each team will do a short in-class presentation of the key defects they found.
 
 ## What you'll do
